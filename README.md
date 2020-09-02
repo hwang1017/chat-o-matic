@@ -1,2 +1,4 @@
 # chat-o-matic
- Realtime Chat App | React, GraphQL & Websockets
+
+###For Practice
+###Realtime Chat App | React, GraphQL & Websockets
